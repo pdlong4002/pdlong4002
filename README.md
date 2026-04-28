@@ -56,13 +56,13 @@ I always strive every day, because the dream is still ahead🌱🍀🍥
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align = "center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pdlong4002&theme=tokyo-night" />
 </p>
 
----
+--- -->
 ### 📈 Coding Profiles
 <p>
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
