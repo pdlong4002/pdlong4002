@@ -87,7 +87,7 @@ I always strive every day, because the dream is still ahead🌱🍀🍥
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/d3a829b5-38ad-4518-ae5d-8ed71fc6889b" alt="orz"> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/3660a539-d7bb-4ce5-bfea-813405f52dd5" alt="orz"> </p>
 
 <!-- hoac dung anh nay -->
 <!-- ![VHU Team](https://github.com/user-attachments/assets/687b1219-d464-4119-8f74-71a840119d0d) -->
