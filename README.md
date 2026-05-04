@@ -78,7 +78,7 @@ I always strive every day, because the dream is still ahead🌱🍀🍥
 ### 🎯 Goals for 2026
 <p>
   <span style="font-weight:600; color:#1f8acb; text-shadow: 0 0 8px rgba(0,198,255,0.6);">
-    Codeforces → Expert (Specialist)
+    Codeforces → Specialist → Expert (1600+)
   </span>
   <br/>
   <span style="font-weight:600; color:#ffa116; text-shadow: 0 0 8px rgba(255,126,95,0.6);">
