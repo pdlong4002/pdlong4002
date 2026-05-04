@@ -75,7 +75,16 @@ I always strive every day, because the dream is still ahead🌱🍀🍥
   <img src="https://leetcard.jacoblin.cool/fushisan2104?theme=dark&font=Karma&ext=heatmap" height="200"/>
 </p>
 
-<!--`I solve problems for fun from time to time 🐸` -->
+### 🎯 Goals for 2026
+<p>
+  <span style="font-weight:600; color:#1f8acb; text-shadow: 0 0 8px rgba(0,198,255,0.6);">
+    Codeforces → Expert (Specialist)
+  </span>
+  <br/>
+  <span style="font-weight:600; color:#ffa116; text-shadow: 0 0 8px rgba(255,126,95,0.6);">
+    LeetCode → 800+ Problems
+  </span>
+</p>
 
 ---
 
@@ -89,8 +98,6 @@ I always strive every day, because the dream is still ahead🌱🍀🍥
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/3660a539-d7bb-4ce5-bfea-813405f52dd5" alt="orz"> </p>
 
-<!-- hoac dung anh nay -->
-<!-- ![VHU Team](https://github.com/user-attachments/assets/687b1219-d464-4119-8f74-71a840119d0d) -->
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Dreams+are+what+make+life+worth+living" />
