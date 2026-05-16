@@ -32,7 +32,7 @@ I always strive every day, because the dream is still ahead🌱🍀🍥
 <a href="https://github.com/pdlong4002">
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/long-pham-26758236a/">
+<a href="https://www.linkedin.com/in/pdlong21/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://discordapp.com/users/719574258925436950">
